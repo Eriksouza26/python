@@ -26,3 +26,4 @@ nesse exemplo ele primeiro faz a soma e subtração em ordem que estiver  onde o
 
 '''
 
+
